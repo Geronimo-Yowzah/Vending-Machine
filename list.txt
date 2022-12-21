@@ -1,0 +1,6 @@
+1 coke 15 B Stock 100
+2 Pepsi 14 B Stock 100 
+3 Fanta 17 B Stock 100 
+4 Est 10 B Stock 100
+5 Sprite 16 B Stock 100
+6 Sponsor 13 B Stock 100
